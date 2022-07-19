@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Notification/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Notification/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Notification/app/src/main/res/layout/activity_second.xml" value="0.19895833333333332" />
         <entry key="..\:/dzaky/android/study_guide_aad/ToastAndSnackbar/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/dzaky/android/study_guide_aad/ToastAndSnackbar/app/src/main/res/layout/snackbar_item.xml" value="0.19927536231884058" />
       </map>
